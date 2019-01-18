@@ -2,8 +2,8 @@
 # in the templates available like {{ site.myvariable }}.
 title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
 email: your-email@domain.com
-brand: Your Name
-headline: Inventor, Engineer and Futurist
+brand: 天使心身心健康管理咨询室
+headline: 用一颗天使的爱心呵护您的心理、身体健康
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -17,8 +17,8 @@ markdown: kramdown
 snapwidget: 247552
 
 # Contacts
-email: your.name@gmail.com
-phone: +1-800-555-2016
+email: 943673928@qq.com
+phone: +1-891-741-1908
 
 # Tracking
 googleAnalitycsID: UA-83933844-1
