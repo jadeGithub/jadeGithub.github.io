@@ -2,7 +2,7 @@
 # in the templates available like {{ site.myvariable }}.
 title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
 email: your-email@domain.com
-brand: 天使心身心健康管理咨询室
+brand: 天使心
 headline: 用一颗天使的爱心呵护您的心理、身体健康
 description: > # this means to ignore newlines until "baseurl:"
   New Site
