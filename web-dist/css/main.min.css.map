@@ -61,6 +61,7 @@
 		"../../_web-src/scss/theme/_top.scss",
 		"../../_web-src/scss/theme/_about.scss",
 		"../../_web-src/scss/theme/_instagram.scss",
+		"../../_web-src/scss/theme/teachers.scss",
 		"../../_web-src/scss/theme/_contacts.scss",
 		"../../_web-src/scss/theme/_copyright.scss"
 	],
